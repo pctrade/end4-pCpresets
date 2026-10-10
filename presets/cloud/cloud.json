@@ -1,0 +1,681 @@
+{
+  "appearance": {
+    "extraBackgroundTint": true,
+    "fakeScreenRounding": 0,
+    "palette": {
+      "accentColor": "",
+      "namedScheme": "",
+      "namedSchemePrimary": "",
+      "namedSchemeSecondary": "",
+      "type": "auto"
+    },
+    "transparency": {
+      "automatic": true,
+      "backgroundTransparency": 0.10999999999999999,
+      "contentTransparency": 0.57,
+      "enable": true
+    },
+    "wallpaperTheming": {
+      "enableAppsAndShell": true,
+      "enableQtApps": true,
+      "enableTerminal": true,
+      "terminalGenerationProps": {
+        "forceDarkMode": false,
+        "harmonizeThreshold": 100,
+        "harmony": 0.6,
+        "termFgBoost": 0.35
+      }
+    }
+  },
+  "background": {
+    "blurRadius": 32,
+    "centeredWallpaper": false,
+    "centeredWallpaperColor": "secondaryContainer",
+    "centeredWallpaperImage": "",
+    "centeredWallpaperOnlyWhenLocked": true,
+    "centeredWallpaperShape": "Cookie9Sided",
+    "centeredWallpaperSize": 405,
+    "collage": {
+      "enable": false,
+      "gap": 30,
+      "margin": 30,
+      "nextId": 2,
+      "primaryId": 1,
+      "radius": 30,
+      "tree": "{\"t\":\"leaf\",\"id\":1,\"img\":\"\"}"
+    },
+    "enableWallpaperPreview": false,
+    "hideWhenFullscreen": true,
+    "lockWall": "",
+    "parallax": {
+      "autoVertical": false,
+      "enableSidebar": false,
+      "enableWorkspace": false,
+      "vertical": false,
+      "widgetsFactor": 1.2,
+      "workspaceZoom": 1.07
+    },
+    "screenList": [],
+    "showBlur": false,
+    "showGrid": true,
+    "showSnapLines": true,
+    "splitRatio": "100",
+    "splitSide": "left",
+    "thumbnailPath": "yor-forger-assassin-spy-x-family-4k-live-wallpaper.mp4.jpg",
+    "wallpaperAnimation": "random",
+    "wallpaperPath": "wallhaven_qrggkd.png",
+    "widgets": {
+      "blurRadius": 64,
+      "blurWidgets": true,
+      "calendar": {
+        "enable": true,
+        "placementStrategy": "free",
+        "sizeMode": "2x3",
+        "x": 1476,
+        "y": 48,
+        "z": 64
+      },
+      "clock": {
+        "color": "",
+        "cookie": {
+          "aiStyling": false,
+          "constantlyRotate": true,
+          "dateInClock": true,
+          "dateStyle": "bubble",
+          "dialNumberStyle": "numbers",
+          "hourHandStyle": "hollow",
+          "hourMarks": false,
+          "minuteHandStyle": "bold",
+          "secondHandStyle": "dot",
+          "sides": 14,
+          "timeIndicators": false,
+          "useSineCookie": true
+        },
+        "digital": {
+          "adaptiveAlignment": true,
+          "animateChange": true,
+          "font": {
+            "family": "Google Sans Flex",
+            "roundness": 5.550307764458701,
+            "size": 84.02615769176627,
+            "weight": 355.5624124915897,
+            "width": 68.26779950050388
+          },
+          "showDate": true,
+          "vertical": true
+        },
+        "enable": true,
+        "pixel": {
+          "orientation": "horizontal"
+        },
+        "placementStrategy": "free",
+        "quote": {
+          "enable": false,
+          "followClock": true,
+          "text": ":3"
+        },
+        "showOnlyWhenLocked": false,
+        "style": "pixel",
+        "styleLocked": "pixel",
+        "x": 756,
+        "y": 48,
+        "z": 72
+      },
+      "customImage": {
+        "enable": false,
+        "path": "twilight whisper bg edited by me _ creds needed.jpg",
+        "placementStrategy": "free",
+        "shape": "Square",
+        "size": 256.73046875,
+        "x": 180,
+        "y": 204,
+        "z": 0
+      },
+      "customText": {
+        "alignment": "center",
+        "color": "",
+        "content": "Hello world",
+        "enable": false,
+        "fontFamily": "Caveat",
+        "fontSize": 72,
+        "placementStrategy": "free",
+        "shadow": true,
+        "x": 400,
+        "y": 300,
+        "z": 0
+      },
+      "images": {
+        "enable": true,
+        "placementStrategy": "free",
+        "x": 24,
+        "y": 180,
+        "z": 28
+      },
+      "media": {
+        "backgroundShape": "Cookie4Sided",
+        "enable": true,
+        "placementStrategy": "free",
+        "showControls": true,
+        "showLyrics": false,
+        "showTitles": true,
+        "sizeMode": "2x3",
+        "x": 768,
+        "y": 180,
+        "z": 73
+      },
+      "menuHidden": [],
+      "notes": {
+        "enable": false,
+        "placementStrategy": "free",
+        "x": 48,
+        "y": 456,
+        "z": 67
+      },
+      "resources": {
+        "enable": true,
+        "placementStrategy": "free",
+        "vertical": false,
+        "x": 1476,
+        "y": 444,
+        "z": 70
+      },
+      "shadow": true,
+      "sticker": {
+        "enable": false,
+        "items": [],
+        "outlineColor": "#ffffff",
+        "outlineWidth": 8,
+        "path": "",
+        "placementStrategy": "free",
+        "rotation": 0,
+        "size": 200,
+        "x": 400,
+        "y": 100,
+        "z": 0
+      },
+      "timers": {
+        "enable": true,
+        "placementStrategy": "free",
+        "vertical": false,
+        "x": 1476,
+        "y": 312,
+        "z": 69
+      },
+      "todo": {
+        "enable": false,
+        "placementStrategy": "free",
+        "x": 24,
+        "y": 516,
+        "z": 0
+      },
+      "userCard": {
+        "enable": true,
+        "placementStrategy": "free",
+        "sizeMode": "1x2",
+        "x": 24,
+        "y": 48,
+        "z": 48
+      },
+      "visualizer": {
+        "colorSource": "theme",
+        "enable": false,
+        "height": 260,
+        "placementStrategy": "free",
+        "ringSize": 380,
+        "sensitivity": 1.36,
+        "style": "bars",
+        "x": 0,
+        "y": 840,
+        "z": -1000
+      },
+      "weather": {
+        "enable": true,
+        "expanded": false,
+        "placementStrategy": "free",
+        "sizeMode": "1x2",
+        "x": 312,
+        "y": 48,
+        "z": 27
+      },
+      "worldClock": {
+        "clockCount": 4,
+        "enable": true,
+        "placementStrategy": "free",
+        "sizeMode": "2x2",
+        "timezones": [
+          "Asia/Kolkata",
+          "Asia/Tokyo",
+          "Australia/Melbourne",
+          "Asia/Seoul"
+        ],
+        "vertical": false,
+        "x": 324,
+        "y": 180,
+        "z": 29
+      }
+    },
+    "widgetsLocked": false
+  },
+  "bar": {
+    "aiUsage": {
+      "tokenLimit": 1000000,
+      "updateInterval": 60
+    },
+    "autoHide": {
+      "enable": false,
+      "hoverRegionWidth": 2,
+      "pushWindows": false,
+      "showWhenPressingSuper": {
+        "delay": 140,
+        "enable": true
+      }
+    },
+    "borderless": "transparent",
+    "bottom": false,
+    "centerOnlyReserveFrame": false,
+    "cornerStyle": 0,
+    "divider": {
+      "spacing": 20,
+      "style": "rect"
+    },
+    "dynamicIsland": {
+      "leftWidget": "none",
+      "rightWidget": "none",
+      "showMediaControls": true,
+      "visualizerStyle": "dots"
+    },
+    "floatStyleShadow": true,
+    "followFrameColor": true,
+    "frameColor": "layer0",
+    "frameThickness": 8,
+    "groupColor": "tertiaryContainer",
+    "indicators": {
+      "notifications": {
+        "showUnreadCount": true
+      }
+    },
+    "layouts": {
+      "leftLayout": [
+        "powerButton",
+        "divisor",
+        "weatherBar",
+        "divisor",
+        "clockWidget"
+      ],
+      "middleLayout": [
+        "workspaces",
+        "divisor",
+        "media"
+      ],
+      "rightLayout": [
+        "sysTray",
+        "divisor",
+        "utilButtons",
+        "divisor",
+        "bluetooth",
+        "systemIcons",
+        "avatar"
+      ]
+    },
+    "media": {
+      "alwaysVisible": false,
+      "maxWidth": 280,
+      "minWidth": 100,
+      "onlyTitle": false,
+      "preferredPlayer": "",
+      "showLyrics": false
+    },
+    "resources": {
+      "alwaysShowCpu": true,
+      "alwaysShowCpuTemp": true,
+      "alwaysShowDisk": true,
+      "alwaysShowRam": true,
+      "alwaysShowSwap": true,
+      "cpuWarningThreshold": 90,
+      "memoryWarningThreshold": 95,
+      "showValue": false,
+      "style": "filled",
+      "swapWarningThreshold": 85
+    },
+    "screenList": [],
+    "showBackground": true,
+    "showFrame": true,
+    "tooltips": {
+      "clickToShow": false,
+      "enable": true,
+      "style": "default"
+    },
+    "topLeftIcon": "spark",
+    "utilButtons": {
+      "isRecording": false,
+      "showColorPicker": true,
+      "showDarkModeToggle": true,
+      "showKeyboardToggle": false,
+      "showMicToggle": true,
+      "showPerformanceProfileToggle": false,
+      "showScreenRecord": false,
+      "showScreenSnip": false,
+      "showWallpaperToggle": true
+    },
+    "verbose": true,
+    "vertical": false,
+    "widgetStyles": [],
+    "workspaces": {
+      "alwaysShowNumbers": true,
+      "indicatorStyle": "dot",
+      "monochromeIcons": true,
+      "numberMap": [],
+      "showAppIcons": false,
+      "showNumberDelay": 300,
+      "shown": 1,
+      "style": "default",
+      "useNerdFont": false
+    }
+  },
+  "calendar": {
+    "locale": "en-GB"
+  },
+  "crosshair": {
+    "code": "0;P;d;1;0l;10;0o;2;1b;0"
+  },
+  "dock": {
+    "backgroundColor": "layer0",
+    "borderColor": "layer0Border",
+    "borderWidth": 1,
+    "enable": true,
+    "followFrameColor": true,
+    "height": 60,
+    "hoverRegionHeight": 2,
+    "hoverToReveal": true,
+    "iconSize": 33,
+    "iconSpacing": 0,
+    "ignoredAppRegexes": [],
+    "monochromeIcons": true,
+    "pinnedOnStartup": false,
+    "position": "bottom",
+    "radius": 25,
+    "showAppsButton": true,
+    "showBackground": true,
+    "showBorder": true,
+    "showMedia": true,
+    "showPinButton": true,
+    "showPreviews": true,
+    "style": "hug"
+  },
+  "hyprland": {
+    "animations": {
+      "animation": "niri",
+      "enable": true
+    },
+    "decoration": {
+      "activeOpacity": 1,
+      "blur": {
+        "enabled": true,
+        "passes": 3,
+        "size": 1
+      },
+      "inactiveOpacity": 0.9,
+      "rounding": 22,
+      "shadow": {
+        "enabled": true,
+        "range": 4
+      }
+    },
+    "general": {
+      "borderColor": {
+        "activeOpacity": 0.47,
+        "activeRole": "layer0Border",
+        "enable": false,
+        "inactiveOpacity": 0.2,
+        "inactiveRole": "layer0Border"
+      },
+      "borderSize": 1,
+      "gapsIn": 2,
+      "gapsOut": 5
+    }
+  },
+  "interactions": {
+    "deadPixelWorkaround": {
+      "enable": false
+    },
+    "scrolling": {
+      "bounceDamping": 0.3,
+      "fasterTouchpadScroll": false,
+      "flingFriction": 0.002,
+      "flingStopThreshold": 0.01,
+      "mouseScrollDeltaThreshold": 120,
+      "mouseScrollFactor": 120,
+      "touchpadScrollFactor": 450,
+      "touchpadSensitivity": 3.5,
+      "wheelDurationMax": 400,
+      "wheelDurationMin": 200,
+      "wheelScrollAmount": 100
+    }
+  },
+  "launcher": {},
+  "light": {
+    "antiFlashbang": {
+      "enable": false
+    },
+    "night": {
+      "automatic": false,
+      "colorTemperature": 5000,
+      "from": "19:00",
+      "to": "06:30"
+    }
+  },
+  "lock": {
+    "blur": {
+      "enable": false,
+      "extraZoom": 1.1,
+      "radius": 100,
+      "size": 110
+    },
+    "centerClock": true,
+    "launchOnStartup": false,
+    "materialShapeChars": true,
+    "security": {
+      "requirePasswordToPower": false,
+      "unlockKeyring": false
+    },
+    "showLockedText": false,
+    "showMedia": true,
+    "showToolbars": true,
+    "showWidgets": false,
+    "useHyprlock": false
+  },
+  "media": {
+    "filterDuplicatePlayers": true
+  },
+  "notifications": {
+    "position": "top_center",
+    "timeout": 7000
+  },
+  "osd": {
+    "timeout": 1000
+  },
+  "osk": {
+    "layout": "qwerty_full",
+    "pinnedOnStartup": false
+  },
+  "overlay": {
+    "clickthroughOpacity": 0.8,
+    "darkenScreen": true,
+    "floatingImage": {
+      "imageSource": "",
+      "scale": 0.5
+    },
+    "openingZoomAnimation": true
+  },
+  "overview": {
+    "centerIcons": false,
+    "columns": 5,
+    "enable": true,
+    "orderBottomUp": false,
+    "orderRightLeft": false,
+    "rows": 3,
+    "scale": 0.18,
+    "style": "default"
+  },
+  "panelFamily": "ii",
+  "profile": {
+    "avatarPath": "pfps",
+    "avatarPicture": "355628112-256-k598288.jpg",
+    "descriptionText": "::distro::",
+    "displayName": "",
+    "onlinePresets": true,
+    "uploadGuideSeen": false
+  },
+  "regionSelector": {
+    "annotation": {
+      "useSatty": false
+    },
+    "circle": {
+      "padding": 10,
+      "strokeWidth": 6
+    },
+    "rect": {
+      "showAimLines": true
+    },
+    "targetRegions": {
+      "content": true,
+      "contentRegionOpacity": 0.8,
+      "layers": false,
+      "opacity": 0.3,
+      "selectionPadding": 5,
+      "showLabel": false,
+      "windows": true
+    }
+  },
+  "resources": {
+    "historyLength": 60,
+    "updateInterval": 3000
+  },
+  "settings": {
+    "animationSpeed": 1,
+    "borderColor": "layer0Border",
+    "borderSize": 1,
+    "collapsedSections": [],
+    "style": "dashboard"
+  },
+  "sidebar": {
+    "ai": {
+      "textFadeIn": false
+    },
+    "banner": true,
+    "bannerFocusX": 0.5,
+    "bannerFocusY": 0.5,
+    "bannerImage": "bright_teal_2.jpg",
+    "bottomGroup": true,
+    "cornerOpen": {
+      "bottom": false,
+      "bottomLeftAction": "sidebarLeftOpen",
+      "bottomRightAction": "sidebarRightOpen",
+      "clickless": true,
+      "clicklessCornerEnd": true,
+      "clicklessCornerVerticalOffset": 1,
+      "cornerRegionHeight": 5,
+      "cornerRegionWidth": 250,
+      "enable": true,
+      "valueScroll": true,
+      "visualize": false
+    },
+    "keepRightSidebarLoaded": true,
+    "media": {
+      "artColors": true,
+      "artShape": "Oval",
+      "blurredBackground": false,
+      "enable": true,
+      "shapeArt": false,
+      "showLyrics": false
+    },
+    "mediaPlayer": false,
+    "quickSliders": {
+      "enable": true,
+      "showBrightness": true,
+      "showMic": false,
+      "showVolume": true
+    },
+    "quickToggles": {
+      "android": {
+        "columns": 8,
+        "toggles": [
+          {
+            "size": 2,
+            "type": "network"
+          },
+          {
+            "size": 2,
+            "type": "bluetooth"
+          },
+          {
+            "size": 1,
+            "type": "idleInhibitor"
+          },
+          {
+            "size": 1,
+            "type": "gameMode"
+          },
+          {
+            "size": 1,
+            "type": "mic"
+          },
+          {
+            "size": 1,
+            "type": "audio"
+          },
+          {
+            "size": 1,
+            "type": "notifications"
+          },
+          {
+            "size": 1,
+            "type": "screenSnip"
+          }
+        ]
+      },
+      "style": "classic"
+    },
+    "sectionOrder": [
+      "banner",
+      "quickToggles",
+      "sliders",
+      "media",
+      "notifications",
+      "bottom"
+    ],
+    "translator": {
+      "delay": 300,
+      "enable": false
+    }
+  },
+  "tray": {
+    "filterPassive": true,
+    "invertPinnedItems": true,
+    "monochromeIcons": false,
+    "showItemId": false
+  },
+  "wallpaperSelector": {
+    "changeInterval": 0,
+    "closeAfterSelection": true,
+    "columns": 4,
+    "liveWallpapersPath": "",
+    "showBlurBackground": true,
+    "showHomePath": false,
+    "showSearchbar": true,
+    "sortMode": "time",
+    "useSystemFileDialog": false,
+    "wallhavenCategories": "111",
+    "wallhavenColors": "000000,999999,cccccc,ffffff,424153",
+    "wallhavenOrder": "desc",
+    "wallhavenPurity": "100",
+    "wallhavenQuery": "",
+    "wallhavenRatios": "",
+    "wallhavenSorting": "toplist",
+    "wallhavenTopRange": "1y"
+  },
+  "windows": {
+    "centerTitle": true,
+    "showTitlebar": true
+  }
+}
